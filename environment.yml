@@ -1,0 +1,10 @@
+name: movie_scrapper
+dependencies:
+  - numpy
+  - pandas
+  - scrapy
+  - BeautifulSoup
+  - openpyxl
+  - wikipedia
+  - langdetect
+  - typer=0.4.1

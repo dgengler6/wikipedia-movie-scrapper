@@ -1,0 +1,52 @@
+Intel MKL WARNING: Support of Intel(R) Streaming SIMD Extensions 4.2 (Intel(R) SSE4.2) enabled only processors has been deprecated. Intel oneAPI Math Kernel Library 2025.0 will require Intel(R) Advanced Vector Extensions (Intel(R) AVX) instructions.
+Intel MKL WARNING: Support of Intel(R) Streaming SIMD Extensions 4.2 (Intel(R) SSE4.2) enabled only processors has been deprecated. Intel oneAPI Math Kernel Library 2025.0 will require Intel(R) Advanced Vector Extensions (Intel(R) AVX) instructions.
+Retrieved informations for Armageddon !
+Retrieved informations for Project X !
+Retrieved informations for L'enfant, la taupe, le renard et le cheval !
+Retrieved informations for La planète sauvage !
+Retrieved informations for Spartacus !
+Retrieved informations for Inspecteur Harry !
+Retrieved informations for The Art of Flight !
+Retrieved informations for Get Out !
+Retrieved informations for Des hommes sans loi !
+The retrived pages for Fog hill of five element are pretty uncertain. Try changing the spelling to one of the following : 
+ ['Silent Hill 2', 'List of films: F', 'Alice in Chains', 'List of cult films: F', 'Escape from New York']
+Retrieved informations for The King's avatar !
+Retrieved informations for L'oeil du mal !
+Retrieved informations for La classe à l'Américaine !
+Retrieved informations for La sociologie est un sport de combat !
+Retrieved informations for Les Rivières Pourpres !
+Could not find any infoboxes on the page of La fabrique du consentement !
+Retrieved informations for Rio Bravo !
+Retrieved informations for Triangle of Sadness !
+Retrieved informations for Mario !
+Retrieved informations for Transformers : Rise of the Beasts !
+Retrieved informations for Nope !
+Retrieved informations for Le sens de la fête !
+Retrieved informations for Interstella 5555 !
+Retrieved informations for Spider-Man: Into the Spider-Verse !
+Retrieved informations for Spider-Man: Across the Spider-Verse !
+Retrieved informations for Human Traffic !
+Retrieved informations for Sexy Dance 2 !
+Retrieved informations for Sexy Dance 3 !
+Retrieved informations for Twilight 1 !
+Retrieved informations for Ready Player One !
+Retrieved informations for The Interview !
+Retrieved informations for Your Name !
+Retrieved informations for Je suis une légende !
+Retrieved informations for La planète au trésor !
+Retrieved informations for Buzz l'éclair !
+Retrieved informations for Barbie !
+Retrieved informations for Good Luck to you Leo Grande !
+Retrieved informations for Summer Palace !
+Retrieved informations for District 9 !
+Retrieved informations for Signs !
+Retrieved informations for Asteroid City !
+Retrieved informations for Passengers !
+Retrieved informations for Perfect Days !
+Retrieved informations for La zone d'intérêt !
+Retrieved informations for Le Règne animal !
+Retrieved informations for Simple comme Sylvain !
+Retrieved informations for Bottle Rocket !
+Done Retrieving Informations!
+Informations written in file ../io/output.xlsx
